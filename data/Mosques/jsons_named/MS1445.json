@@ -1,0 +1,48 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MS1445_000",
+            "area": 2424,
+            "iso_area": 76952
+        },
+        {
+            "id": "MS1445_001",
+            "area": 563,
+            "iso_area": 3737
+        },
+        {
+            "id": "MS1445_002",
+            "area": 517,
+            "iso_area": 432
+        },
+        {
+            "id": "MS1445_003",
+            "area": 8,
+            "iso_area": 8
+        }
+    ],
+    "links": [
+        {
+            "id": "MS1445_e000",
+            "source": "MS1445_000",
+            "target": "MS1445_001"
+        },
+        {
+            "id": "MS1445_e001",
+            "source": "MS1445_001",
+            "target": "MS1445_002"
+        },
+        {
+            "id": "MS1445_e002",
+            "source": "MS1445_001",
+            "target": "MS1445_003"
+        },
+        {
+            "id": "MS1445_e003",
+            "source": "MS1445_002",
+            "target": "MS1445_003"
+        }
+    ]
+}

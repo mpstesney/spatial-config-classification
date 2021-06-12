@@ -1,0 +1,113 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MS1449_000",
+            "area": 885,
+            "iso_area": 65016
+        },
+        {
+            "id": "MS1449_001",
+            "area": 274,
+            "iso_area": 361
+        },
+        {
+            "id": "MS1449_002",
+            "area": 272,
+            "iso_area": 436
+        },
+        {
+            "id": "MS1449_003",
+            "area": 149,
+            "iso_area": 198
+        },
+        {
+            "id": "MS1449_004",
+            "area": 87,
+            "iso_area": 162
+        },
+        {
+            "id": "MS1449_005",
+            "area": 66,
+            "iso_area": 404
+        },
+        {
+            "id": "MS1449_006",
+            "area": 31,
+            "iso_area": 116
+        },
+        {
+            "id": "MS1449_007",
+            "area": 9,
+            "iso_area": 44
+        },
+        {
+            "id": "MS1449_008",
+            "area": 6,
+            "iso_area": 204
+        },
+        {
+            "id": "MS1449_009",
+            "area": 3,
+            "iso_area": 286
+        }
+    ],
+    "links": [
+        {
+            "id": "MS1449_e000",
+            "source": "MS1449_000",
+            "target": "MS1449_009"
+        },
+        {
+            "id": "MS1449_e001",
+            "source": "MS1449_001",
+            "target": "MS1449_002"
+        },
+        {
+            "id": "MS1449_e002",
+            "source": "MS1449_002",
+            "target": "MS1449_004"
+        },
+        {
+            "id": "MS1449_e003",
+            "source": "MS1449_002",
+            "target": "MS1449_005"
+        },
+        {
+            "id": "MS1449_e004",
+            "source": "MS1449_002",
+            "target": "MS1449_006"
+        },
+        {
+            "id": "MS1449_e005",
+            "source": "MS1449_002",
+            "target": "MS1449_003"
+        },
+        {
+            "id": "MS1449_e006",
+            "source": "MS1449_004",
+            "target": "MS1449_009"
+        },
+        {
+            "id": "MS1449_e007",
+            "source": "MS1449_004",
+            "target": "MS1449_005"
+        },
+        {
+            "id": "MS1449_e008",
+            "source": "MS1449_005",
+            "target": "MS1449_007"
+        },
+        {
+            "id": "MS1449_e009",
+            "source": "MS1449_005",
+            "target": "MS1449_006"
+        },
+        {
+            "id": "MS1449_e010",
+            "source": "MS1449_005",
+            "target": "MS1449_008"
+        }
+    ]
+}

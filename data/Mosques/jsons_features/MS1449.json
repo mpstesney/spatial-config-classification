@@ -1,0 +1,214 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {
+        "building_type": "mosque",
+        "building_name": "MS1449",
+        "num_nodes": 10,
+        "num_edges": 11,
+        "density": 0.24444444444444444,
+        "ave_cluster_coef": 0.17333333333333334,
+        "transistivity": 0.24,
+        "cliques": [
+            [
+                "MS1449_002",
+                "MS1449_005",
+                "MS1449_004"
+            ],
+            [
+                "MS1449_002",
+                "MS1449_005",
+                "MS1449_006"
+            ]
+        ]
+    },
+    "nodes": [
+        {
+            "area": 885,
+            "iso_area": 65016,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.0,
+            "degree_centrality": 0.1111111111111111,
+            "eigenvector_centrality": 0.04781783316827096,
+            "closeness_centrality": 0.3103448275862069,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MS1449_000"
+        },
+        {
+            "area": 274,
+            "iso_area": 361,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.0,
+            "degree_centrality": 0.1111111111111111,
+            "eigenvector_centrality": 0.17516936128424884,
+            "closeness_centrality": 0.4090909090909091,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MS1449_001"
+        },
+        {
+            "area": 272,
+            "iso_area": 436,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.4583333333333333,
+            "degree_centrality": 0.5555555555555556,
+            "eigenvector_centrality": 0.5349697455763988,
+            "closeness_centrality": 0.6428571428571429,
+            "degree": 5,
+            "clustering_coef": 0.2,
+            "id": "MS1449_002"
+        },
+        {
+            "area": 149,
+            "iso_area": 198,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.0,
+            "degree_centrality": 0.1111111111111111,
+            "eigenvector_centrality": 0.17516936128424884,
+            "closeness_centrality": 0.4090909090909091,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MS1449_003"
+        },
+        {
+            "area": 87,
+            "iso_area": 162,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.38888888888888884,
+            "degree_centrality": 0.3333333333333333,
+            "eigenvector_centrality": 0.39815655573469,
+            "closeness_centrality": 0.6,
+            "degree": 3,
+            "clustering_coef": 0.3333333333333333,
+            "id": "MS1449_004"
+        },
+        {
+            "area": 66,
+            "iso_area": 404,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.4583333333333333,
+            "degree_centrality": 0.5555555555555556,
+            "eigenvector_centrality": 0.5349697455763988,
+            "closeness_centrality": 0.6428571428571429,
+            "degree": 5,
+            "clustering_coef": 0.2,
+            "id": "MS1449_005"
+        },
+        {
+            "area": 31,
+            "iso_area": 116,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.0,
+            "degree_centrality": 0.2222222222222222,
+            "eigenvector_centrality": 0.3503387225674584,
+            "closeness_centrality": 0.47368421052631576,
+            "degree": 2,
+            "clustering_coef": 1.0,
+            "id": "MS1449_006"
+        },
+        {
+            "area": 9,
+            "iso_area": 44,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.0,
+            "degree_centrality": 0.1111111111111111,
+            "eigenvector_centrality": 0.17516936128424884,
+            "closeness_centrality": 0.4090909090909091,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MS1449_007"
+        },
+        {
+            "area": 6,
+            "iso_area": 204,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.0,
+            "degree_centrality": 0.1111111111111111,
+            "eigenvector_centrality": 0.17516936128424884,
+            "closeness_centrality": 0.4090909090909091,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MS1449_008"
+        },
+        {
+            "area": 3,
+            "iso_area": 286,
+            "building_type": "mosque",
+            "building_name": "MS1449",
+            "betweenness": 0.2222222222222222,
+            "degree_centrality": 0.2222222222222222,
+            "eigenvector_centrality": 0.14603120738835668,
+            "closeness_centrality": 0.42857142857142855,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MS1449_009"
+        }
+    ],
+    "links": [
+        {
+            "id": "MS1449_e000",
+            "source": "MS1449_000",
+            "target": "MS1449_009"
+        },
+        {
+            "id": "MS1449_e001",
+            "source": "MS1449_001",
+            "target": "MS1449_002"
+        },
+        {
+            "id": "MS1449_e002",
+            "source": "MS1449_002",
+            "target": "MS1449_004"
+        },
+        {
+            "id": "MS1449_e003",
+            "source": "MS1449_002",
+            "target": "MS1449_005"
+        },
+        {
+            "id": "MS1449_e004",
+            "source": "MS1449_002",
+            "target": "MS1449_006"
+        },
+        {
+            "id": "MS1449_e005",
+            "source": "MS1449_002",
+            "target": "MS1449_003"
+        },
+        {
+            "id": "MS1449_e006",
+            "source": "MS1449_004",
+            "target": "MS1449_009"
+        },
+        {
+            "id": "MS1449_e007",
+            "source": "MS1449_004",
+            "target": "MS1449_005"
+        },
+        {
+            "id": "MS1449_e008",
+            "source": "MS1449_005",
+            "target": "MS1449_007"
+        },
+        {
+            "id": "MS1449_e009",
+            "source": "MS1449_005",
+            "target": "MS1449_006"
+        },
+        {
+            "id": "MS1449_e010",
+            "source": "MS1449_005",
+            "target": "MS1449_008"
+        }
+    ]
+}

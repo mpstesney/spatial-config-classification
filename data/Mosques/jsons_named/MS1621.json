@@ -1,0 +1,43 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MS1621_000",
+            "area": 2061,
+            "iso_area": 67181
+        },
+        {
+            "id": "MS1621_001",
+            "area": 1207,
+            "iso_area": 850
+        },
+        {
+            "id": "MS1621_002",
+            "area": 111,
+            "iso_area": 107
+        },
+        {
+            "id": "MS1621_003",
+            "area": 57,
+            "iso_area": 58
+        }
+    ],
+    "links": [
+        {
+            "id": "MS1621_e000",
+            "source": "MS1621_000",
+            "target": "MS1621_001"
+        },
+        {
+            "id": "MS1621_e001",
+            "source": "MS1621_001",
+            "target": "MS1621_002"
+        },
+        {
+            "id": "MS1621_e002",
+            "source": "MS1621_001",
+            "target": "MS1621_003"
+        }
+    ]
+}

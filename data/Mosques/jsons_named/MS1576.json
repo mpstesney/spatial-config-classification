@@ -1,0 +1,108 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MS1576_000",
+            "area": 8151,
+            "iso_area": 191
+        },
+        {
+            "id": "MS1576_001",
+            "area": 293,
+            "iso_area": 669
+        },
+        {
+            "id": "MS1576_002",
+            "area": 162,
+            "iso_area": 354
+        },
+        {
+            "id": "MS1576_003",
+            "area": 156,
+            "iso_area": 733
+        },
+        {
+            "id": "MS1576_004",
+            "area": 124,
+            "iso_area": 705
+        },
+        {
+            "id": "MS1576_005",
+            "area": 20,
+            "iso_area": 0
+        },
+        {
+            "id": "MS1576_006",
+            "area": 18,
+            "iso_area": 2
+        },
+        {
+            "id": "MS1576_007",
+            "area": 13,
+            "iso_area": 1
+        },
+        {
+            "id": "MS1576_008",
+            "area": 12,
+            "iso_area": 1
+        }
+    ],
+    "links": [
+        {
+            "id": "MS1576_e000",
+            "source": "MS1576_000",
+            "target": "MS1576_006"
+        },
+        {
+            "id": "MS1576_e001",
+            "source": "MS1576_000",
+            "target": "MS1576_005"
+        },
+        {
+            "id": "MS1576_e002",
+            "source": "MS1576_000",
+            "target": "MS1576_008"
+        },
+        {
+            "id": "MS1576_e003",
+            "source": "MS1576_000",
+            "target": "MS1576_007"
+        },
+        {
+            "id": "MS1576_e004",
+            "source": "MS1576_001",
+            "target": "MS1576_005"
+        },
+        {
+            "id": "MS1576_e005",
+            "source": "MS1576_001",
+            "target": "MS1576_006"
+        },
+        {
+            "id": "MS1576_e006",
+            "source": "MS1576_001",
+            "target": "MS1576_002"
+        },
+        {
+            "id": "MS1576_e007",
+            "source": "MS1576_001",
+            "target": "MS1576_007"
+        },
+        {
+            "id": "MS1576_e008",
+            "source": "MS1576_001",
+            "target": "MS1576_008"
+        },
+        {
+            "id": "MS1576_e009",
+            "source": "MS1576_001",
+            "target": "MS1576_003"
+        },
+        {
+            "id": "MS1576_e010",
+            "source": "MS1576_003",
+            "target": "MS1576_004"
+        }
+    ]
+}

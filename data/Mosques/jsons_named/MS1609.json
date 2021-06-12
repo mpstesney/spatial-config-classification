@@ -1,0 +1,298 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MS1609_000",
+            "area": 4545,
+            "iso_area": 1555
+        },
+        {
+            "id": "MS1609_001",
+            "area": 234,
+            "iso_area": 497
+        },
+        {
+            "id": "MS1609_002",
+            "area": 146,
+            "iso_area": 847
+        },
+        {
+            "id": "MS1609_003",
+            "area": 60,
+            "iso_area": 941
+        },
+        {
+            "id": "MS1609_004",
+            "area": 24,
+            "iso_area": 248
+        },
+        {
+            "id": "MS1609_005",
+            "area": 19,
+            "iso_area": 102
+        },
+        {
+            "id": "MS1609_006",
+            "area": 19,
+            "iso_area": 77
+        },
+        {
+            "id": "MS1609_007",
+            "area": 14,
+            "iso_area": 634
+        },
+        {
+            "id": "MS1609_008",
+            "area": 13,
+            "iso_area": 24
+        },
+        {
+            "id": "MS1609_009",
+            "area": 13,
+            "iso_area": 48
+        },
+        {
+            "id": "MS1609_010",
+            "area": 12,
+            "iso_area": 114
+        },
+        {
+            "id": "MS1609_011",
+            "area": 12,
+            "iso_area": 105
+        },
+        {
+            "id": "MS1609_012",
+            "area": 12,
+            "iso_area": 30
+        },
+        {
+            "id": "MS1609_013",
+            "area": 12,
+            "iso_area": 65
+        },
+        {
+            "id": "MS1609_014",
+            "area": 12,
+            "iso_area": 24
+        },
+        {
+            "id": "MS1609_015",
+            "area": 12,
+            "iso_area": 65
+        },
+        {
+            "id": "MS1609_016",
+            "area": 12,
+            "iso_area": 105
+        },
+        {
+            "id": "MS1609_017",
+            "area": 12,
+            "iso_area": 53
+        },
+        {
+            "id": "MS1609_018",
+            "area": 12,
+            "iso_area": 48
+        },
+        {
+            "id": "MS1609_019",
+            "area": 12,
+            "iso_area": 228
+        },
+        {
+            "id": "MS1609_020",
+            "area": 12,
+            "iso_area": 92
+        },
+        {
+            "id": "MS1609_021",
+            "area": 1,
+            "iso_area": 160
+        }
+    ],
+    "links": [
+        {
+            "id": "MS1609_e000",
+            "source": "MS1609_000",
+            "target": "MS1609_009"
+        },
+        {
+            "id": "MS1609_e001",
+            "source": "MS1609_000",
+            "target": "MS1609_019"
+        },
+        {
+            "id": "MS1609_e002",
+            "source": "MS1609_000",
+            "target": "MS1609_006"
+        },
+        {
+            "id": "MS1609_e003",
+            "source": "MS1609_000",
+            "target": "MS1609_021"
+        },
+        {
+            "id": "MS1609_e004",
+            "source": "MS1609_000",
+            "target": "MS1609_008"
+        },
+        {
+            "id": "MS1609_e005",
+            "source": "MS1609_000",
+            "target": "MS1609_018"
+        },
+        {
+            "id": "MS1609_e006",
+            "source": "MS1609_000",
+            "target": "MS1609_020"
+        },
+        {
+            "id": "MS1609_e007",
+            "source": "MS1609_000",
+            "target": "MS1609_011"
+        },
+        {
+            "id": "MS1609_e008",
+            "source": "MS1609_000",
+            "target": "MS1609_013"
+        },
+        {
+            "id": "MS1609_e009",
+            "source": "MS1609_000",
+            "target": "MS1609_010"
+        },
+        {
+            "id": "MS1609_e010",
+            "source": "MS1609_000",
+            "target": "MS1609_012"
+        },
+        {
+            "id": "MS1609_e011",
+            "source": "MS1609_000",
+            "target": "MS1609_003"
+        },
+        {
+            "id": "MS1609_e012",
+            "source": "MS1609_000",
+            "target": "MS1609_005"
+        },
+        {
+            "id": "MS1609_e013",
+            "source": "MS1609_000",
+            "target": "MS1609_015"
+        },
+        {
+            "id": "MS1609_e014",
+            "source": "MS1609_000",
+            "target": "MS1609_002"
+        },
+        {
+            "id": "MS1609_e015",
+            "source": "MS1609_000",
+            "target": "MS1609_017"
+        },
+        {
+            "id": "MS1609_e016",
+            "source": "MS1609_000",
+            "target": "MS1609_004"
+        },
+        {
+            "id": "MS1609_e017",
+            "source": "MS1609_000",
+            "target": "MS1609_014"
+        },
+        {
+            "id": "MS1609_e018",
+            "source": "MS1609_000",
+            "target": "MS1609_016"
+        },
+        {
+            "id": "MS1609_e019",
+            "source": "MS1609_000",
+            "target": "MS1609_007"
+        },
+        {
+            "id": "MS1609_e020",
+            "source": "MS1609_001",
+            "target": "MS1609_003"
+        },
+        {
+            "id": "MS1609_e021",
+            "source": "MS1609_002",
+            "target": "MS1609_010"
+        },
+        {
+            "id": "MS1609_e022",
+            "source": "MS1609_002",
+            "target": "MS1609_016"
+        },
+        {
+            "id": "MS1609_e023",
+            "source": "MS1609_002",
+            "target": "MS1609_005"
+        },
+        {
+            "id": "MS1609_e024",
+            "source": "MS1609_002",
+            "target": "MS1609_011"
+        },
+        {
+            "id": "MS1609_e025",
+            "source": "MS1609_002",
+            "target": "MS1609_017"
+        },
+        {
+            "id": "MS1609_e026",
+            "source": "MS1609_002",
+            "target": "MS1609_008"
+        },
+        {
+            "id": "MS1609_e027",
+            "source": "MS1609_002",
+            "target": "MS1609_014"
+        },
+        {
+            "id": "MS1609_e028",
+            "source": "MS1609_002",
+            "target": "MS1609_020"
+        },
+        {
+            "id": "MS1609_e029",
+            "source": "MS1609_002",
+            "target": "MS1609_009"
+        },
+        {
+            "id": "MS1609_e030",
+            "source": "MS1609_002",
+            "target": "MS1609_015"
+        },
+        {
+            "id": "MS1609_e031",
+            "source": "MS1609_002",
+            "target": "MS1609_006"
+        },
+        {
+            "id": "MS1609_e032",
+            "source": "MS1609_002",
+            "target": "MS1609_012"
+        },
+        {
+            "id": "MS1609_e033",
+            "source": "MS1609_002",
+            "target": "MS1609_018"
+        },
+        {
+            "id": "MS1609_e034",
+            "source": "MS1609_002",
+            "target": "MS1609_013"
+        },
+        {
+            "id": "MS1609_e035",
+            "source": "MS1609_002",
+            "target": "MS1609_019"
+        }
+    ]
+}

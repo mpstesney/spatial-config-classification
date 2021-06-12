@@ -1,0 +1,143 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MS1610_000",
+            "area": 2976,
+            "iso_area": 27434
+        },
+        {
+            "id": "MS1610_001",
+            "area": 225,
+            "iso_area": 3042
+        },
+        {
+            "id": "MS1610_002",
+            "area": 207,
+            "iso_area": 935
+        },
+        {
+            "id": "MS1610_003",
+            "area": 61,
+            "iso_area": 53575
+        },
+        {
+            "id": "MS1610_004",
+            "area": 11,
+            "iso_area": 16
+        },
+        {
+            "id": "MS1610_005",
+            "area": 11,
+            "iso_area": 16
+        },
+        {
+            "id": "MS1610_006",
+            "area": 11,
+            "iso_area": 14
+        },
+        {
+            "id": "MS1610_007",
+            "area": 11,
+            "iso_area": 14
+        },
+        {
+            "id": "MS1610_008",
+            "area": 11,
+            "iso_area": 14
+        },
+        {
+            "id": "MS1610_009",
+            "area": 11,
+            "iso_area": 14
+        },
+        {
+            "id": "MS1610_010",
+            "area": 11,
+            "iso_area": 17
+        },
+        {
+            "id": "MS1610_011",
+            "area": 11,
+            "iso_area": 17
+        },
+        {
+            "id": "MS1610_012",
+            "area": 10,
+            "iso_area": 11
+        },
+        {
+            "id": "MS1610_013",
+            "area": 10,
+            "iso_area": 11
+        }
+    ],
+    "links": [
+        {
+            "id": "MS1610_e000",
+            "source": "MS1610_000",
+            "target": "MS1610_003"
+        },
+        {
+            "id": "MS1610_e001",
+            "source": "MS1610_000",
+            "target": "MS1610_002"
+        },
+        {
+            "id": "MS1610_e002",
+            "source": "MS1610_001",
+            "target": "MS1610_003"
+        },
+        {
+            "id": "MS1610_e003",
+            "source": "MS1610_002",
+            "target": "MS1610_004"
+        },
+        {
+            "id": "MS1610_e004",
+            "source": "MS1610_002",
+            "target": "MS1610_009"
+        },
+        {
+            "id": "MS1610_e005",
+            "source": "MS1610_002",
+            "target": "MS1610_010"
+        },
+        {
+            "id": "MS1610_e006",
+            "source": "MS1610_002",
+            "target": "MS1610_005"
+        },
+        {
+            "id": "MS1610_e007",
+            "source": "MS1610_002",
+            "target": "MS1610_006"
+        },
+        {
+            "id": "MS1610_e008",
+            "source": "MS1610_002",
+            "target": "MS1610_011"
+        },
+        {
+            "id": "MS1610_e009",
+            "source": "MS1610_002",
+            "target": "MS1610_012"
+        },
+        {
+            "id": "MS1610_e010",
+            "source": "MS1610_002",
+            "target": "MS1610_007"
+        },
+        {
+            "id": "MS1610_e011",
+            "source": "MS1610_002",
+            "target": "MS1610_008"
+        },
+        {
+            "id": "MS1610_e012",
+            "source": "MS1610_002",
+            "target": "MS1610_013"
+        }
+    ]
+}

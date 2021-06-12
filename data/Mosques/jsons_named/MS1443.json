@@ -1,0 +1,118 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MS1443_000",
+            "area": 1591,
+            "iso_area": 9142
+        },
+        {
+            "id": "MS1443_001",
+            "area": 287,
+            "iso_area": 312
+        },
+        {
+            "id": "MS1443_002",
+            "area": 55,
+            "iso_area": 26
+        },
+        {
+            "id": "MS1443_003",
+            "area": 50,
+            "iso_area": 69
+        },
+        {
+            "id": "MS1443_004",
+            "area": 42,
+            "iso_area": 68
+        },
+        {
+            "id": "MS1443_005",
+            "area": 38,
+            "iso_area": 77
+        },
+        {
+            "id": "MS1443_006",
+            "area": 35,
+            "iso_area": 90
+        },
+        {
+            "id": "MS1443_007",
+            "area": 16,
+            "iso_area": 45
+        },
+        {
+            "id": "MS1443_008",
+            "area": 9,
+            "iso_area": 31
+        },
+        {
+            "id": "MS1443_009",
+            "area": 8,
+            "iso_area": 21
+        },
+        {
+            "id": "MS1443_010",
+            "area": 2,
+            "iso_area": 17
+        }
+    ],
+    "links": [
+        {
+            "id": "MS1443_e000",
+            "source": "MS1443_000",
+            "target": "MS1443_002"
+        },
+        {
+            "id": "MS1443_e001",
+            "source": "MS1443_001",
+            "target": "MS1443_006"
+        },
+        {
+            "id": "MS1443_e002",
+            "source": "MS1443_001",
+            "target": "MS1443_002"
+        },
+        {
+            "id": "MS1443_e003",
+            "source": "MS1443_001",
+            "target": "MS1443_007"
+        },
+        {
+            "id": "MS1443_e004",
+            "source": "MS1443_001",
+            "target": "MS1443_003"
+        },
+        {
+            "id": "MS1443_e005",
+            "source": "MS1443_001",
+            "target": "MS1443_004"
+        },
+        {
+            "id": "MS1443_e006",
+            "source": "MS1443_002",
+            "target": "MS1443_008"
+        },
+        {
+            "id": "MS1443_e007",
+            "source": "MS1443_005",
+            "target": "MS1443_010"
+        },
+        {
+            "id": "MS1443_e008",
+            "source": "MS1443_005",
+            "target": "MS1443_006"
+        },
+        {
+            "id": "MS1443_e009",
+            "source": "MS1443_006",
+            "target": "MS1443_009"
+        },
+        {
+            "id": "MS1443_e010",
+            "source": "MS1443_006",
+            "target": "MS1443_010"
+        }
+    ]
+}
