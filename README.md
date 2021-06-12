@@ -3,6 +3,8 @@ vignette 2 repository
 
 paper: http://cumincad.scix.net/cgi-bin/works/Show?cf2019_014
 
+repo: https://github.com/c0deLab/ML-architectural-analytics
+
 Add data, experiments and notebooks. Clean up notebooks to only be final comprehensive version of the approach. Figure out how to do the ml work in the code, not with weka.
 
 Develop grasshopper code to be able to extract more information from the original work. Could be a good opportunity for more sophisticated grasshopper coding and interaction.
