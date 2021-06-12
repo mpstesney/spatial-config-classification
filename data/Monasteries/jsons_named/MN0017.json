@@ -1,0 +1,363 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MN0017_000",
+            "area": 2999,
+            "iso_area": 936
+        },
+        {
+            "id": "MN0017_001",
+            "area": 296,
+            "iso_area": 480
+        },
+        {
+            "id": "MN0017_002",
+            "area": 237,
+            "iso_area": 285
+        },
+        {
+            "id": "MN0017_003",
+            "area": 129,
+            "iso_area": 437
+        },
+        {
+            "id": "MN0017_004",
+            "area": 119,
+            "iso_area": 79
+        },
+        {
+            "id": "MN0017_005",
+            "area": 117,
+            "iso_area": 167
+        },
+        {
+            "id": "MN0017_006",
+            "area": 103,
+            "iso_area": 119
+        },
+        {
+            "id": "MN0017_007",
+            "area": 87,
+            "iso_area": 106
+        },
+        {
+            "id": "MN0017_008",
+            "area": 80,
+            "iso_area": 107
+        },
+        {
+            "id": "MN0017_009",
+            "area": 51,
+            "iso_area": 72
+        },
+        {
+            "id": "MN0017_010",
+            "area": 44,
+            "iso_area": 204
+        },
+        {
+            "id": "MN0017_011",
+            "area": 44,
+            "iso_area": 120
+        },
+        {
+            "id": "MN0017_012",
+            "area": 41,
+            "iso_area": 54
+        },
+        {
+            "id": "MN0017_013",
+            "area": 38,
+            "iso_area": 48
+        },
+        {
+            "id": "MN0017_014",
+            "area": 34,
+            "iso_area": 177
+        },
+        {
+            "id": "MN0017_015",
+            "area": 33,
+            "iso_area": 64
+        },
+        {
+            "id": "MN0017_016",
+            "area": 33,
+            "iso_area": 95
+        },
+        {
+            "id": "MN0017_017",
+            "area": 27,
+            "iso_area": 36
+        },
+        {
+            "id": "MN0017_018",
+            "area": 25,
+            "iso_area": 36
+        },
+        {
+            "id": "MN0017_019",
+            "area": 25,
+            "iso_area": 31
+        },
+        {
+            "id": "MN0017_020",
+            "area": 24,
+            "iso_area": 37
+        },
+        {
+            "id": "MN0017_021",
+            "area": 17,
+            "iso_area": 103
+        },
+        {
+            "id": "MN0017_022",
+            "area": 16,
+            "iso_area": 136
+        },
+        {
+            "id": "MN0017_023",
+            "area": 14,
+            "iso_area": 45
+        },
+        {
+            "id": "MN0017_024",
+            "area": 14,
+            "iso_area": 18
+        },
+        {
+            "id": "MN0017_025",
+            "area": 14,
+            "iso_area": 212
+        },
+        {
+            "id": "MN0017_026",
+            "area": 13,
+            "iso_area": 32
+        },
+        {
+            "id": "MN0017_027",
+            "area": 12,
+            "iso_area": 16
+        },
+        {
+            "id": "MN0017_028",
+            "area": 10,
+            "iso_area": 17
+        },
+        {
+            "id": "MN0017_029",
+            "area": 8,
+            "iso_area": 20
+        }
+    ],
+    "links": [
+        {
+            "id": "MN0017_e000",
+            "source": "MN0017_000",
+            "target": "MN0017_005"
+        },
+        {
+            "id": "MN0017_e001",
+            "source": "MN0017_000",
+            "target": "MN0017_016"
+        },
+        {
+            "id": "MN0017_e002",
+            "source": "MN0017_000",
+            "target": "MN0017_023"
+        },
+        {
+            "id": "MN0017_e003",
+            "source": "MN0017_001",
+            "target": "MN0017_005"
+        },
+        {
+            "id": "MN0017_e004",
+            "source": "MN0017_001",
+            "target": "MN0017_014"
+        },
+        {
+            "id": "MN0017_e005",
+            "source": "MN0017_001",
+            "target": "MN0017_003"
+        },
+        {
+            "id": "MN0017_e006",
+            "source": "MN0017_002",
+            "target": "MN0017_004"
+        },
+        {
+            "id": "MN0017_e007",
+            "source": "MN0017_002",
+            "target": "MN0017_010"
+        },
+        {
+            "id": "MN0017_e008",
+            "source": "MN0017_003",
+            "target": "MN0017_025"
+        },
+        {
+            "id": "MN0017_e009",
+            "source": "MN0017_003",
+            "target": "MN0017_009"
+        },
+        {
+            "id": "MN0017_e010",
+            "source": "MN0017_004",
+            "target": "MN0017_019"
+        },
+        {
+            "id": "MN0017_e011",
+            "source": "MN0017_004",
+            "target": "MN0017_020"
+        },
+        {
+            "id": "MN0017_e012",
+            "source": "MN0017_004",
+            "target": "MN0017_007"
+        },
+        {
+            "id": "MN0017_e013",
+            "source": "MN0017_004",
+            "target": "MN0017_013"
+        },
+        {
+            "id": "MN0017_e014",
+            "source": "MN0017_004",
+            "target": "MN0017_008"
+        },
+        {
+            "id": "MN0017_e015",
+            "source": "MN0017_004",
+            "target": "MN0017_011"
+        },
+        {
+            "id": "MN0017_e016",
+            "source": "MN0017_004",
+            "target": "MN0017_022"
+        },
+        {
+            "id": "MN0017_e017",
+            "source": "MN0017_004",
+            "target": "MN0017_010"
+        },
+        {
+            "id": "MN0017_e018",
+            "source": "MN0017_005",
+            "target": "MN0017_008"
+        },
+        {
+            "id": "MN0017_e019",
+            "source": "MN0017_005",
+            "target": "MN0017_018"
+        },
+        {
+            "id": "MN0017_e020",
+            "source": "MN0017_006",
+            "target": "MN0017_012"
+        },
+        {
+            "id": "MN0017_e021",
+            "source": "MN0017_006",
+            "target": "MN0017_011"
+        },
+        {
+            "id": "MN0017_e022",
+            "source": "MN0017_007",
+            "target": "MN0017_011"
+        },
+        {
+            "id": "MN0017_e023",
+            "source": "MN0017_007",
+            "target": "MN0017_013"
+        },
+        {
+            "id": "MN0017_e024",
+            "source": "MN0017_008",
+            "target": "MN0017_025"
+        },
+        {
+            "id": "MN0017_e025",
+            "source": "MN0017_009",
+            "target": "MN0017_025"
+        },
+        {
+            "id": "MN0017_e026",
+            "source": "MN0017_009",
+            "target": "MN0017_015"
+        },
+        {
+            "id": "MN0017_e027",
+            "source": "MN0017_010",
+            "target": "MN0017_021"
+        },
+        {
+            "id": "MN0017_e028",
+            "source": "MN0017_010",
+            "target": "MN0017_025"
+        },
+        {
+            "id": "MN0017_e029",
+            "source": "MN0017_010",
+            "target": "MN0017_015"
+        },
+        {
+            "id": "MN0017_e030",
+            "source": "MN0017_011",
+            "target": "MN0017_027"
+        },
+        {
+            "id": "MN0017_e031",
+            "source": "MN0017_011",
+            "target": "MN0017_012"
+        },
+        {
+            "id": "MN0017_e032",
+            "source": "MN0017_012",
+            "target": "MN0017_029"
+        },
+        {
+            "id": "MN0017_e033",
+            "source": "MN0017_012",
+            "target": "MN0017_028"
+        },
+        {
+            "id": "MN0017_e034",
+            "source": "MN0017_015",
+            "target": "MN0017_021"
+        },
+        {
+            "id": "MN0017_e035",
+            "source": "MN0017_016",
+            "target": "MN0017_017"
+        },
+        {
+            "id": "MN0017_e036",
+            "source": "MN0017_016",
+            "target": "MN0017_026"
+        },
+        {
+            "id": "MN0017_e037",
+            "source": "MN0017_016",
+            "target": "MN0017_021"
+        },
+        {
+            "id": "MN0017_e038",
+            "source": "MN0017_020",
+            "target": "MN0017_022"
+        },
+        {
+            "id": "MN0017_e039",
+            "source": "MN0017_021",
+            "target": "MN0017_026"
+        },
+        {
+            "id": "MN0017_e040",
+            "source": "MN0017_021",
+            "target": "MN0017_024"
+        }
+    ]
+}

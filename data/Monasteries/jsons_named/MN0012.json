@@ -1,0 +1,593 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MN0012_000",
+            "area": 1161,
+            "iso_area": 597
+        },
+        {
+            "id": "MN0012_001",
+            "area": 408,
+            "iso_area": 291
+        },
+        {
+            "id": "MN0012_002",
+            "area": 194,
+            "iso_area": 194
+        },
+        {
+            "id": "MN0012_003",
+            "area": 162,
+            "iso_area": 59
+        },
+        {
+            "id": "MN0012_004",
+            "area": 54,
+            "iso_area": 54
+        },
+        {
+            "id": "MN0012_005",
+            "area": 36,
+            "iso_area": 36
+        },
+        {
+            "id": "MN0012_006",
+            "area": 36,
+            "iso_area": 36
+        },
+        {
+            "id": "MN0012_007",
+            "area": 34,
+            "iso_area": 16
+        },
+        {
+            "id": "MN0012_008",
+            "area": 33,
+            "iso_area": 33
+        },
+        {
+            "id": "MN0012_009",
+            "area": 29,
+            "iso_area": 29
+        },
+        {
+            "id": "MN0012_010",
+            "area": 21,
+            "iso_area": 21
+        },
+        {
+            "id": "MN0012_011",
+            "area": 20,
+            "iso_area": 20
+        },
+        {
+            "id": "MN0012_012",
+            "area": 16,
+            "iso_area": 16
+        },
+        {
+            "id": "MN0012_013",
+            "area": 16,
+            "iso_area": 15
+        },
+        {
+            "id": "MN0012_014",
+            "area": 15,
+            "iso_area": 15
+        },
+        {
+            "id": "MN0012_015",
+            "area": 15,
+            "iso_area": 15
+        },
+        {
+            "id": "MN0012_016",
+            "area": 14,
+            "iso_area": 14
+        },
+        {
+            "id": "MN0012_017",
+            "area": 12,
+            "iso_area": 12
+        },
+        {
+            "id": "MN0012_018",
+            "area": 11,
+            "iso_area": 11
+        },
+        {
+            "id": "MN0012_019",
+            "area": 10,
+            "iso_area": 10
+        },
+        {
+            "id": "MN0012_020",
+            "area": 10,
+            "iso_area": 10
+        },
+        {
+            "id": "MN0012_021",
+            "area": 8,
+            "iso_area": 8
+        },
+        {
+            "id": "MN0012_022",
+            "area": 8,
+            "iso_area": 8
+        },
+        {
+            "id": "MN0012_023",
+            "area": 8,
+            "iso_area": 8
+        },
+        {
+            "id": "MN0012_024",
+            "area": 8,
+            "iso_area": 8
+        },
+        {
+            "id": "MN0012_025",
+            "area": 7,
+            "iso_area": 7
+        },
+        {
+            "id": "MN0012_026",
+            "area": 7,
+            "iso_area": 7
+        },
+        {
+            "id": "MN0012_027",
+            "area": 7,
+            "iso_area": 7
+        },
+        {
+            "id": "MN0012_028",
+            "area": 7,
+            "iso_area": 7
+        },
+        {
+            "id": "MN0012_029",
+            "area": 6,
+            "iso_area": 6
+        },
+        {
+            "id": "MN0012_030",
+            "area": 5,
+            "iso_area": 5
+        },
+        {
+            "id": "MN0012_031",
+            "area": 5,
+            "iso_area": 5
+        },
+        {
+            "id": "MN0012_032",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0012_033",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0012_034",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0012_035",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0012_036",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0012_037",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0012_038",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0012_039",
+            "area": 1,
+            "iso_area": 1
+        },
+        {
+            "id": "MN0012_040",
+            "area": 1,
+            "iso_area": 1
+        },
+        {
+            "id": "MN0012_041",
+            "area": 1,
+            "iso_area": 1
+        }
+    ],
+    "links": [
+        {
+            "id": "MN0012_e000",
+            "source": "MN0012_000",
+            "target": "MN0012_028"
+        },
+        {
+            "id": "MN0012_e001",
+            "source": "MN0012_000",
+            "target": "MN0012_019"
+        },
+        {
+            "id": "MN0012_e002",
+            "source": "MN0012_000",
+            "target": "MN0012_021"
+        },
+        {
+            "id": "MN0012_e003",
+            "source": "MN0012_000",
+            "target": "MN0012_001"
+        },
+        {
+            "id": "MN0012_e004",
+            "source": "MN0012_000",
+            "target": "MN0012_013"
+        },
+        {
+            "id": "MN0012_e005",
+            "source": "MN0012_000",
+            "target": "MN0012_023"
+        },
+        {
+            "id": "MN0012_e006",
+            "source": "MN0012_000",
+            "target": "MN0012_025"
+        },
+        {
+            "id": "MN0012_e007",
+            "source": "MN0012_000",
+            "target": "MN0012_005"
+        },
+        {
+            "id": "MN0012_e008",
+            "source": "MN0012_000",
+            "target": "MN0012_017"
+        },
+        {
+            "id": "MN0012_e009",
+            "source": "MN0012_000",
+            "target": "MN0012_004"
+        },
+        {
+            "id": "MN0012_e010",
+            "source": "MN0012_000",
+            "target": "MN0012_014"
+        },
+        {
+            "id": "MN0012_e011",
+            "source": "MN0012_000",
+            "target": "MN0012_007"
+        },
+        {
+            "id": "MN0012_e012",
+            "source": "MN0012_001",
+            "target": "MN0012_035"
+        },
+        {
+            "id": "MN0012_e013",
+            "source": "MN0012_001",
+            "target": "MN0012_015"
+        },
+        {
+            "id": "MN0012_e014",
+            "source": "MN0012_001",
+            "target": "MN0012_033"
+        },
+        {
+            "id": "MN0012_e015",
+            "source": "MN0012_001",
+            "target": "MN0012_034"
+        },
+        {
+            "id": "MN0012_e016",
+            "source": "MN0012_001",
+            "target": "MN0012_003"
+        },
+        {
+            "id": "MN0012_e017",
+            "source": "MN0012_001",
+            "target": "MN0012_036"
+        },
+        {
+            "id": "MN0012_e018",
+            "source": "MN0012_002",
+            "target": "MN0012_003"
+        },
+        {
+            "id": "MN0012_e019",
+            "source": "MN0012_003",
+            "target": "MN0012_018"
+        },
+        {
+            "id": "MN0012_e020",
+            "source": "MN0012_003",
+            "target": "MN0012_024"
+        },
+        {
+            "id": "MN0012_e021",
+            "source": "MN0012_003",
+            "target": "MN0012_030"
+        },
+        {
+            "id": "MN0012_e022",
+            "source": "MN0012_003",
+            "target": "MN0012_017"
+        },
+        {
+            "id": "MN0012_e023",
+            "source": "MN0012_003",
+            "target": "MN0012_004"
+        },
+        {
+            "id": "MN0012_e024",
+            "source": "MN0012_003",
+            "target": "MN0012_010"
+        },
+        {
+            "id": "MN0012_e025",
+            "source": "MN0012_003",
+            "target": "MN0012_016"
+        },
+        {
+            "id": "MN0012_e026",
+            "source": "MN0012_003",
+            "target": "MN0012_021"
+        },
+        {
+            "id": "MN0012_e027",
+            "source": "MN0012_003",
+            "target": "MN0012_008"
+        },
+        {
+            "id": "MN0012_e028",
+            "source": "MN0012_003",
+            "target": "MN0012_027"
+        },
+        {
+            "id": "MN0012_e029",
+            "source": "MN0012_003",
+            "target": "MN0012_040"
+        },
+        {
+            "id": "MN0012_e030",
+            "source": "MN0012_003",
+            "target": "MN0012_020"
+        },
+        {
+            "id": "MN0012_e031",
+            "source": "MN0012_003",
+            "target": "MN0012_007"
+        },
+        {
+            "id": "MN0012_e032",
+            "source": "MN0012_003",
+            "target": "MN0012_026"
+        },
+        {
+            "id": "MN0012_e033",
+            "source": "MN0012_003",
+            "target": "MN0012_032"
+        },
+        {
+            "id": "MN0012_e034",
+            "source": "MN0012_003",
+            "target": "MN0012_019"
+        },
+        {
+            "id": "MN0012_e035",
+            "source": "MN0012_003",
+            "target": "MN0012_012"
+        },
+        {
+            "id": "MN0012_e036",
+            "source": "MN0012_005",
+            "target": "MN0012_020"
+        },
+        {
+            "id": "MN0012_e037",
+            "source": "MN0012_005",
+            "target": "MN0012_021"
+        },
+        {
+            "id": "MN0012_e038",
+            "source": "MN0012_005",
+            "target": "MN0012_010"
+        },
+        {
+            "id": "MN0012_e039",
+            "source": "MN0012_005",
+            "target": "MN0012_016"
+        },
+        {
+            "id": "MN0012_e040",
+            "source": "MN0012_005",
+            "target": "MN0012_022"
+        },
+        {
+            "id": "MN0012_e041",
+            "source": "MN0012_005",
+            "target": "MN0012_008"
+        },
+        {
+            "id": "MN0012_e042",
+            "source": "MN0012_006",
+            "target": "MN0012_009"
+        },
+        {
+            "id": "MN0012_e043",
+            "source": "MN0012_006",
+            "target": "MN0012_016"
+        },
+        {
+            "id": "MN0012_e044",
+            "source": "MN0012_006",
+            "target": "MN0012_037"
+        },
+        {
+            "id": "MN0012_e045",
+            "source": "MN0012_006",
+            "target": "MN0012_029"
+        },
+        {
+            "id": "MN0012_e046",
+            "source": "MN0012_008",
+            "target": "MN0012_010"
+        },
+        {
+            "id": "MN0012_e047",
+            "source": "MN0012_008",
+            "target": "MN0012_020"
+        },
+        {
+            "id": "MN0012_e048",
+            "source": "MN0012_009",
+            "target": "MN0012_016"
+        },
+        {
+            "id": "MN0012_e049",
+            "source": "MN0012_009",
+            "target": "MN0012_029"
+        },
+        {
+            "id": "MN0012_e050",
+            "source": "MN0012_009",
+            "target": "MN0012_011"
+        },
+        {
+            "id": "MN0012_e051",
+            "source": "MN0012_010",
+            "target": "MN0012_022"
+        },
+        {
+            "id": "MN0012_e052",
+            "source": "MN0012_010",
+            "target": "MN0012_032"
+        },
+        {
+            "id": "MN0012_e053",
+            "source": "MN0012_011",
+            "target": "MN0012_030"
+        },
+        {
+            "id": "MN0012_e054",
+            "source": "MN0012_011",
+            "target": "MN0012_016"
+        },
+        {
+            "id": "MN0012_e055",
+            "source": "MN0012_012",
+            "target": "MN0012_013"
+        },
+        {
+            "id": "MN0012_e056",
+            "source": "MN0012_014",
+            "target": "MN0012_021"
+        },
+        {
+            "id": "MN0012_e057",
+            "source": "MN0012_014",
+            "target": "MN0012_028"
+        },
+        {
+            "id": "MN0012_e058",
+            "source": "MN0012_014",
+            "target": "MN0012_026"
+        },
+        {
+            "id": "MN0012_e059",
+            "source": "MN0012_015",
+            "target": "MN0012_039"
+        },
+        {
+            "id": "MN0012_e060",
+            "source": "MN0012_016",
+            "target": "MN0012_030"
+        },
+        {
+            "id": "MN0012_e061",
+            "source": "MN0012_016",
+            "target": "MN0012_038"
+        },
+        {
+            "id": "MN0012_e062",
+            "source": "MN0012_018",
+            "target": "MN0012_023"
+        },
+        {
+            "id": "MN0012_e063",
+            "source": "MN0012_018",
+            "target": "MN0012_024"
+        },
+        {
+            "id": "MN0012_e064",
+            "source": "MN0012_018",
+            "target": "MN0012_030"
+        },
+        {
+            "id": "MN0012_e065",
+            "source": "MN0012_019",
+            "target": "MN0012_021"
+        },
+        {
+            "id": "MN0012_e066",
+            "source": "MN0012_019",
+            "target": "MN0012_027"
+        },
+        {
+            "id": "MN0012_e067",
+            "source": "MN0012_020",
+            "target": "MN0012_038"
+        },
+        {
+            "id": "MN0012_e068",
+            "source": "MN0012_022",
+            "target": "MN0012_032"
+        },
+        {
+            "id": "MN0012_e069",
+            "source": "MN0012_023",
+            "target": "MN0012_024"
+        },
+        {
+            "id": "MN0012_e070",
+            "source": "MN0012_025",
+            "target": "MN0012_027"
+        },
+        {
+            "id": "MN0012_e071",
+            "source": "MN0012_026",
+            "target": "MN0012_032"
+        },
+        {
+            "id": "MN0012_e072",
+            "source": "MN0012_030",
+            "target": "MN0012_031"
+        },
+        {
+            "id": "MN0012_e073",
+            "source": "MN0012_039",
+            "target": "MN0012_040"
+        },
+        {
+            "id": "MN0012_e074",
+            "source": "MN0012_039",
+            "target": "MN0012_041"
+        }
+    ]
+}

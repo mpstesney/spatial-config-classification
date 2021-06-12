@@ -1,0 +1,1176 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {
+        "building_type": "monastery",
+        "building_name": "MN0028",
+        "num_nodes": 59,
+        "num_edges": 73,
+        "density": 0.04266510812390415,
+        "ave_cluster_coef": 0.0860538043987695,
+        "transistivity": 0.043478260869565216,
+        "cliques": [
+            [
+                "MN0028_022",
+                "MN0028_020",
+                "MN0028_002"
+            ],
+            [
+                "MN0028_001",
+                "MN0028_028",
+                "MN0028_002"
+            ],
+            [
+                "MN0028_043",
+                "MN0028_020",
+                "MN0028_002"
+            ],
+            [
+                "MN0028_000",
+                "MN0028_002",
+                "MN0028_028"
+            ],
+            [
+                "MN0028_000",
+                "MN0028_002",
+                "MN0028_003"
+            ]
+        ]
+    },
+    "nodes": [
+        {
+            "area": 82698,
+            "iso_area": 47,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.6348860657390604,
+            "degree_centrality": 0.3103448275862069,
+            "eigenvector_centrality": 0.5540106766036549,
+            "closeness_centrality": 0.4793388429752066,
+            "degree": 18,
+            "clustering_coef": 0.013071895424836602,
+            "id": "MN0028_000"
+        },
+        {
+            "area": 1659,
+            "iso_area": 3145,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.1318633399203911,
+            "closeness_centrality": 0.3240223463687151,
+            "degree": 2,
+            "clustering_coef": 1.0,
+            "id": "MN0028_001"
+        },
+        {
+            "area": 996,
+            "iso_area": 3069,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.436620286348054,
+            "degree_centrality": 0.22413793103448276,
+            "eigenvector_centrality": 0.41659672264584274,
+            "closeness_centrality": 0.4461538461538462,
+            "degree": 13,
+            "clustering_coef": 0.0641025641025641,
+            "id": "MN0028_002"
+        },
+        {
+            "area": 813,
+            "iso_area": 2094,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.19442520777992064,
+            "closeness_centrality": 0.3625,
+            "degree": 2,
+            "clustering_coef": 1.0,
+            "id": "MN0028_003"
+        },
+        {
+            "area": 756,
+            "iso_area": 412,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.00574712643678161,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.1387417642834265,
+            "closeness_centrality": 0.3391812865497076,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_004"
+        },
+        {
+            "area": 579,
+            "iso_area": 609,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.00503153497846191,
+            "closeness_centrality": 0.20069204152249134,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_005"
+        },
+        {
+            "area": 502,
+            "iso_area": 482,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.06836055656382335,
+            "degree_centrality": 0.05172413793103448,
+            "eigenvector_centrality": 0.12065992291764341,
+            "closeness_centrality": 0.3333333333333333,
+            "degree": 3,
+            "clustering_coef": 0,
+            "id": "MN0028_006"
+        },
+        {
+            "area": 318,
+            "iso_area": 446,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.1038515829804396,
+            "degree_centrality": 0.05172413793103448,
+            "eigenvector_centrality": 0.1153382155269412,
+            "closeness_centrality": 0.3240223463687151,
+            "degree": 3,
+            "clustering_coef": 0,
+            "id": "MN0028_007"
+        },
+        {
+            "area": 279,
+            "iso_area": 707,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.11097660480721265,
+            "closeness_centrality": 0.3258426966292135,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_008"
+        },
+        {
+            "area": 265,
+            "iso_area": 4476,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.05908449284129866,
+            "degree_centrality": 0.08620689655172414,
+            "eigenvector_centrality": 0.08980406304925183,
+            "closeness_centrality": 0.30687830687830686,
+            "degree": 5,
+            "clustering_coef": 0,
+            "id": "MN0028_009"
+        },
+        {
+            "area": 248,
+            "iso_area": 463,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.034482758620689655,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.11561585760411008,
+            "closeness_centrality": 0.32954545454545453,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_010"
+        },
+        {
+            "area": 240,
+            "iso_area": 130,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.06836055656382335,
+            "degree_centrality": 0.05172413793103448,
+            "eigenvector_centrality": 0.02511908422471562,
+            "closeness_centrality": 0.25,
+            "degree": 3,
+            "clustering_coef": 0,
+            "id": "MN0028_011"
+        },
+        {
+            "area": 239,
+            "iso_area": 280,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.037507562008469456,
+            "degree_centrality": 0.05172413793103448,
+            "eigenvector_centrality": 0.04684753572266323,
+            "closeness_centrality": 0.27751196172248804,
+            "degree": 3,
+            "clustering_coef": 0,
+            "id": "MN0028_012"
+        },
+        {
+            "area": 231,
+            "iso_area": 447,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.06362169792296835,
+            "degree_centrality": 0.05172413793103448,
+            "eigenvector_centrality": 0.13860927208336887,
+            "closeness_centrality": 0.3431952662721893,
+            "degree": 3,
+            "clustering_coef": 0,
+            "id": "MN0028_013"
+        },
+        {
+            "area": 230,
+            "iso_area": 191,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.13367614438394837,
+            "degree_centrality": 0.10344827586206896,
+            "eigenvector_centrality": 0.10412349316630466,
+            "closeness_centrality": 0.31351351351351353,
+            "degree": 6,
+            "clustering_coef": 0,
+            "id": "MN0028_014"
+        },
+        {
+            "area": 219,
+            "iso_area": 1589,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.027368697476374076,
+            "closeness_centrality": 0.23868312757201646,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_015"
+        },
+        {
+            "area": 186,
+            "iso_area": 572,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.030248033877797946,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.1340800105796344,
+            "closeness_centrality": 0.3411764705882353,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_016"
+        },
+        {
+            "area": 155,
+            "iso_area": 658,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.12936075821738258,
+            "degree_centrality": 0.08620689655172414,
+            "eigenvector_centrality": 0.15727878336429835,
+            "closeness_centrality": 0.36024844720496896,
+            "degree": 5,
+            "clustering_coef": 0,
+            "id": "MN0028_017"
+        },
+        {
+            "area": 154,
+            "iso_area": 664,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.14065335753176045,
+            "degree_centrality": 0.13793103448275862,
+            "eigenvector_centrality": 0.13662625463749203,
+            "closeness_centrality": 0.3118279569892473,
+            "degree": 8,
+            "clustering_coef": 0,
+            "id": "MN0028_018"
+        },
+        {
+            "area": 153,
+            "iso_area": 145,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.06229078443234524,
+            "degree_centrality": 0.05172413793103448,
+            "eigenvector_centrality": 0.14982327982669244,
+            "closeness_centrality": 0.36024844720496896,
+            "degree": 3,
+            "clustering_coef": 0,
+            "id": "MN0028_019"
+        },
+        {
+            "area": 138,
+            "iso_area": 189,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.00030248033877797946,
+            "degree_centrality": 0.05172413793103448,
+            "eigenvector_centrality": 0.12707689744223838,
+            "closeness_centrality": 0.31351351351351353,
+            "degree": 3,
+            "clustering_coef": 0.6666666666666666,
+            "id": "MN0028_020"
+        },
+        {
+            "area": 130,
+            "iso_area": 968,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.034482758620689655,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.08693677072975865,
+            "closeness_centrality": 0.31351351351351353,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_021"
+        },
+        {
+            "area": 123,
+            "iso_area": 367,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.10890306933538102,
+            "closeness_centrality": 0.3118279569892473,
+            "degree": 2,
+            "clustering_coef": 1.0,
+            "id": "MN0028_022"
+        },
+        {
+            "area": 122,
+            "iso_area": 125,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.009384352143010097,
+            "closeness_centrality": 0.21804511278195488,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_023"
+        },
+        {
+            "area": 120,
+            "iso_area": 121,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.02417001867160428,
+            "closeness_centrality": 0.2510822510822511,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_024"
+        },
+        {
+            "area": 119,
+            "iso_area": 158,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.04607783827384553,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.12036095695022274,
+            "closeness_centrality": 0.3431952662721893,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_025"
+        },
+        {
+            "area": 117,
+            "iso_area": 20133,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.08807651312188518,
+            "degree_centrality": 0.06896551724137931,
+            "eigenvector_centrality": 0.14021877046022102,
+            "closeness_centrality": 0.3473053892215569,
+            "degree": 4,
+            "clustering_coef": 0,
+            "id": "MN0028_026"
+        },
+        {
+            "area": 115,
+            "iso_area": 119,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.034482758620689655,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.0037993956401226226,
+            "closeness_centrality": 0.20069204152249134,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_027"
+        },
+        {
+            "area": 109,
+            "iso_area": 299,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.10366433324691038,
+            "degree_centrality": 0.06896551724137931,
+            "eigenvector_centrality": 0.24169629328909079,
+            "closeness_centrality": 0.3945578231292517,
+            "degree": 4,
+            "clustering_coef": 0.3333333333333333,
+            "id": "MN0028_028"
+        },
+        {
+            "area": 99,
+            "iso_area": 94,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.11097660480721265,
+            "closeness_centrality": 0.3258426966292135,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_029"
+        },
+        {
+            "area": 96,
+            "iso_area": 1366,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.02723475355054302,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.10143775075231005,
+            "closeness_centrality": 0.327683615819209,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_030"
+        },
+        {
+            "area": 80,
+            "iso_area": 81,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.004352773986212213,
+            "closeness_centrality": 0.19528619528619529,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_031"
+        },
+        {
+            "area": 73,
+            "iso_area": 75,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.034482758620689655,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.11561585760411008,
+            "closeness_centrality": 0.32954545454545453,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_032"
+        },
+        {
+            "area": 71,
+            "iso_area": 3143,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.006795724944545271,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.03884667501947978,
+            "closeness_centrality": 0.25217391304347825,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_033"
+        },
+        {
+            "area": 60,
+            "iso_area": 1720,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.11097660480721265,
+            "closeness_centrality": 0.3258426966292135,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_034"
+        },
+        {
+            "area": 51,
+            "iso_area": 137,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.00503153497846191,
+            "closeness_centrality": 0.20069204152249134,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_035"
+        },
+        {
+            "area": 45,
+            "iso_area": 46,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0677555958862674,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.018207019953794302,
+            "closeness_centrality": 0.24786324786324787,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_036"
+        },
+        {
+            "area": 45,
+            "iso_area": 77,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.11097660480721265,
+            "closeness_centrality": 0.3258426966292135,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_037"
+        },
+        {
+            "area": 41,
+            "iso_area": 552,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.09981851179673322,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.08709556948198317,
+            "closeness_centrality": 0.32044198895027626,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_038"
+        },
+        {
+            "area": 39,
+            "iso_area": 390,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.027368697476374076,
+            "closeness_centrality": 0.23868312757201646,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_039"
+        },
+        {
+            "area": 39,
+            "iso_area": 99,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.03150555356595946,
+            "closeness_centrality": 0.26605504587155965,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_040"
+        },
+        {
+            "area": 36,
+            "iso_area": 45,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.034482758620689655,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.021729473698176894,
+            "closeness_centrality": 0.24166666666666667,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_041"
+        },
+        {
+            "area": 35,
+            "iso_area": 84,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.027368697476374076,
+            "closeness_centrality": 0.23868312757201646,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_042"
+        },
+        {
+            "area": 35,
+            "iso_area": 285,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.10890306933538102,
+            "closeness_centrality": 0.3118279569892473,
+            "degree": 2,
+            "clustering_coef": 1.0,
+            "id": "MN0028_043"
+        },
+        {
+            "area": 34,
+            "iso_area": 396,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.028087990225036403,
+            "closeness_centrality": 0.25892857142857145,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_044"
+        },
+        {
+            "area": 33,
+            "iso_area": 433,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.02315960394737505,
+            "closeness_centrality": 0.24892703862660945,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_045"
+        },
+        {
+            "area": 32,
+            "iso_area": 67,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.01798914777960204,
+            "closeness_centrality": 0.23577235772357724,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_046"
+        },
+        {
+            "area": 32,
+            "iso_area": 32,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.02315960394737505,
+            "closeness_centrality": 0.24892703862660945,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_047"
+        },
+        {
+            "area": 29,
+            "iso_area": 126,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.03150555356595946,
+            "closeness_centrality": 0.26605504587155965,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_048"
+        },
+        {
+            "area": 29,
+            "iso_area": 87,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.027368697476374076,
+            "closeness_centrality": 0.23868312757201646,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_049"
+        },
+        {
+            "area": 28,
+            "iso_area": 30,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.02417001867160428,
+            "closeness_centrality": 0.2510822510822511,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_050"
+        },
+        {
+            "area": 28,
+            "iso_area": 11093,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.027727364387981457,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.1383453022835867,
+            "closeness_centrality": 0.3473053892215569,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_051"
+        },
+        {
+            "area": 26,
+            "iso_area": 2352,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.01741419125910143,
+            "closeness_centrality": 0.2396694214876033,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_052"
+        },
+        {
+            "area": 24,
+            "iso_area": 44,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.028087990225036403,
+            "closeness_centrality": 0.25892857142857145,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_053"
+        },
+        {
+            "area": 18,
+            "iso_area": 28,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.0007610237080602088,
+            "closeness_centrality": 0.1676300578034682,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_054"
+        },
+        {
+            "area": 17,
+            "iso_area": 26,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.020857527239877747,
+            "closeness_centrality": 0.2396694214876033,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_055"
+        },
+        {
+            "area": 17,
+            "iso_area": 1648,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.083448602972708,
+            "closeness_centrality": 0.31016042780748665,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_056"
+        },
+        {
+            "area": 15,
+            "iso_area": 16,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.027727364387981457,
+            "degree_centrality": 0.034482758620689655,
+            "eigenvector_centrality": 0.1383453022835867,
+            "closeness_centrality": 0.3473053892215569,
+            "degree": 2,
+            "clustering_coef": 0,
+            "id": "MN0028_057"
+        },
+        {
+            "area": 11,
+            "iso_area": 53,
+            "building_type": "monastery",
+            "building_name": "MN0028",
+            "betweenness": 0.0,
+            "degree_centrality": 0.017241379310344827,
+            "eigenvector_centrality": 0.03150555356595946,
+            "closeness_centrality": 0.26605504587155965,
+            "degree": 1,
+            "clustering_coef": 0,
+            "id": "MN0028_058"
+        }
+    ],
+    "links": [
+        {
+            "id": "MN0028_e000",
+            "source": "MN0028_000",
+            "target": "MN0028_028"
+        },
+        {
+            "id": "MN0028_e001",
+            "source": "MN0028_000",
+            "target": "MN0028_019"
+        },
+        {
+            "id": "MN0028_e002",
+            "source": "MN0028_000",
+            "target": "MN0028_051"
+        },
+        {
+            "id": "MN0028_e003",
+            "source": "MN0028_000",
+            "target": "MN0028_006"
+        },
+        {
+            "id": "MN0028_e004",
+            "source": "MN0028_000",
+            "target": "MN0028_008"
+        },
+        {
+            "id": "MN0028_e005",
+            "source": "MN0028_000",
+            "target": "MN0028_032"
+        },
+        {
+            "id": "MN0028_e006",
+            "source": "MN0028_000",
+            "target": "MN0028_010"
+        },
+        {
+            "id": "MN0028_e007",
+            "source": "MN0028_000",
+            "target": "MN0028_057"
+        },
+        {
+            "id": "MN0028_e008",
+            "source": "MN0028_000",
+            "target": "MN0028_025"
+        },
+        {
+            "id": "MN0028_e009",
+            "source": "MN0028_000",
+            "target": "MN0028_003"
+        },
+        {
+            "id": "MN0028_e010",
+            "source": "MN0028_000",
+            "target": "MN0028_037"
+        },
+        {
+            "id": "MN0028_e011",
+            "source": "MN0028_000",
+            "target": "MN0028_002"
+        },
+        {
+            "id": "MN0028_e012",
+            "source": "MN0028_000",
+            "target": "MN0028_034"
+        },
+        {
+            "id": "MN0028_e013",
+            "source": "MN0028_000",
+            "target": "MN0028_017"
+        },
+        {
+            "id": "MN0028_e014",
+            "source": "MN0028_000",
+            "target": "MN0028_004"
+        },
+        {
+            "id": "MN0028_e015",
+            "source": "MN0028_000",
+            "target": "MN0028_029"
+        },
+        {
+            "id": "MN0028_e016",
+            "source": "MN0028_000",
+            "target": "MN0028_016"
+        },
+        {
+            "id": "MN0028_e017",
+            "source": "MN0028_000",
+            "target": "MN0028_026"
+        },
+        {
+            "id": "MN0028_e018",
+            "source": "MN0028_001",
+            "target": "MN0028_028"
+        },
+        {
+            "id": "MN0028_e019",
+            "source": "MN0028_001",
+            "target": "MN0028_002"
+        },
+        {
+            "id": "MN0028_e020",
+            "source": "MN0028_002",
+            "target": "MN0028_022"
+        },
+        {
+            "id": "MN0028_e021",
+            "source": "MN0028_002",
+            "target": "MN0028_043"
+        },
+        {
+            "id": "MN0028_e022",
+            "source": "MN0028_002",
+            "target": "MN0028_028"
+        },
+        {
+            "id": "MN0028_e023",
+            "source": "MN0028_002",
+            "target": "MN0028_003"
+        },
+        {
+            "id": "MN0028_e024",
+            "source": "MN0028_002",
+            "target": "MN0028_020"
+        },
+        {
+            "id": "MN0028_e025",
+            "source": "MN0028_002",
+            "target": "MN0028_021"
+        },
+        {
+            "id": "MN0028_e026",
+            "source": "MN0028_002",
+            "target": "MN0028_038"
+        },
+        {
+            "id": "MN0028_e027",
+            "source": "MN0028_002",
+            "target": "MN0028_007"
+        },
+        {
+            "id": "MN0028_e028",
+            "source": "MN0028_002",
+            "target": "MN0028_056"
+        },
+        {
+            "id": "MN0028_e029",
+            "source": "MN0028_002",
+            "target": "MN0028_013"
+        },
+        {
+            "id": "MN0028_e030",
+            "source": "MN0028_002",
+            "target": "MN0028_030"
+        },
+        {
+            "id": "MN0028_e031",
+            "source": "MN0028_004",
+            "target": "MN0028_013"
+        },
+        {
+            "id": "MN0028_e032",
+            "source": "MN0028_005",
+            "target": "MN0028_011"
+        },
+        {
+            "id": "MN0028_e033",
+            "source": "MN0028_006",
+            "target": "MN0028_050"
+        },
+        {
+            "id": "MN0028_e034",
+            "source": "MN0028_006",
+            "target": "MN0028_024"
+        },
+        {
+            "id": "MN0028_e035",
+            "source": "MN0028_007",
+            "target": "MN0028_011"
+        },
+        {
+            "id": "MN0028_e036",
+            "source": "MN0028_007",
+            "target": "MN0028_016"
+        },
+        {
+            "id": "MN0028_e037",
+            "source": "MN0028_009",
+            "target": "MN0028_019"
+        },
+        {
+            "id": "MN0028_e038",
+            "source": "MN0028_009",
+            "target": "MN0028_026"
+        },
+        {
+            "id": "MN0028_e039",
+            "source": "MN0028_009",
+            "target": "MN0028_046"
+        },
+        {
+            "id": "MN0028_e040",
+            "source": "MN0028_009",
+            "target": "MN0028_030"
+        },
+        {
+            "id": "MN0028_e041",
+            "source": "MN0028_009",
+            "target": "MN0028_033"
+        },
+        {
+            "id": "MN0028_e042",
+            "source": "MN0028_010",
+            "target": "MN0028_045"
+        },
+        {
+            "id": "MN0028_e043",
+            "source": "MN0028_011",
+            "target": "MN0028_035"
+        },
+        {
+            "id": "MN0028_e044",
+            "source": "MN0028_012",
+            "target": "MN0028_023"
+        },
+        {
+            "id": "MN0028_e045",
+            "source": "MN0028_012",
+            "target": "MN0028_025"
+        },
+        {
+            "id": "MN0028_e046",
+            "source": "MN0028_012",
+            "target": "MN0028_014"
+        },
+        {
+            "id": "MN0028_e047",
+            "source": "MN0028_013",
+            "target": "MN0028_018"
+        },
+        {
+            "id": "MN0028_e048",
+            "source": "MN0028_014",
+            "target": "MN0028_041"
+        },
+        {
+            "id": "MN0028_e049",
+            "source": "MN0028_014",
+            "target": "MN0028_028"
+        },
+        {
+            "id": "MN0028_e050",
+            "source": "MN0028_014",
+            "target": "MN0028_019"
+        },
+        {
+            "id": "MN0028_e051",
+            "source": "MN0028_014",
+            "target": "MN0028_055"
+        },
+        {
+            "id": "MN0028_e052",
+            "source": "MN0028_014",
+            "target": "MN0028_033"
+        },
+        {
+            "id": "MN0028_e053",
+            "source": "MN0028_015",
+            "target": "MN0028_018"
+        },
+        {
+            "id": "MN0028_e054",
+            "source": "MN0028_017",
+            "target": "MN0028_018"
+        },
+        {
+            "id": "MN0028_e055",
+            "source": "MN0028_017",
+            "target": "MN0028_040"
+        },
+        {
+            "id": "MN0028_e056",
+            "source": "MN0028_017",
+            "target": "MN0028_058"
+        },
+        {
+            "id": "MN0028_e057",
+            "source": "MN0028_017",
+            "target": "MN0028_048"
+        },
+        {
+            "id": "MN0028_e058",
+            "source": "MN0028_018",
+            "target": "MN0028_049"
+        },
+        {
+            "id": "MN0028_e059",
+            "source": "MN0028_018",
+            "target": "MN0028_039"
+        },
+        {
+            "id": "MN0028_e060",
+            "source": "MN0028_018",
+            "target": "MN0028_051"
+        },
+        {
+            "id": "MN0028_e061",
+            "source": "MN0028_018",
+            "target": "MN0028_057"
+        },
+        {
+            "id": "MN0028_e062",
+            "source": "MN0028_018",
+            "target": "MN0028_042"
+        },
+        {
+            "id": "MN0028_e063",
+            "source": "MN0028_020",
+            "target": "MN0028_043"
+        },
+        {
+            "id": "MN0028_e064",
+            "source": "MN0028_020",
+            "target": "MN0028_022"
+        },
+        {
+            "id": "MN0028_e065",
+            "source": "MN0028_021",
+            "target": "MN0028_052"
+        },
+        {
+            "id": "MN0028_e066",
+            "source": "MN0028_026",
+            "target": "MN0028_053"
+        },
+        {
+            "id": "MN0028_e067",
+            "source": "MN0028_026",
+            "target": "MN0028_044"
+        },
+        {
+            "id": "MN0028_e068",
+            "source": "MN0028_027",
+            "target": "MN0028_054"
+        },
+        {
+            "id": "MN0028_e069",
+            "source": "MN0028_027",
+            "target": "MN0028_036"
+        },
+        {
+            "id": "MN0028_e070",
+            "source": "MN0028_031",
+            "target": "MN0028_041"
+        },
+        {
+            "id": "MN0028_e071",
+            "source": "MN0028_032",
+            "target": "MN0028_047"
+        },
+        {
+            "id": "MN0028_e072",
+            "source": "MN0028_036",
+            "target": "MN0028_038"
+        }
+    ]
+}

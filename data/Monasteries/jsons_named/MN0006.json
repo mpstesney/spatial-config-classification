@@ -1,0 +1,553 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MN0006_000",
+            "area": 424,
+            "iso_area": 424
+        },
+        {
+            "id": "MN0006_001",
+            "area": 331,
+            "iso_area": 424
+        },
+        {
+            "id": "MN0006_002",
+            "area": 198,
+            "iso_area": 197
+        },
+        {
+            "id": "MN0006_003",
+            "area": 58,
+            "iso_area": 57
+        },
+        {
+            "id": "MN0006_004",
+            "area": 45,
+            "iso_area": 45
+        },
+        {
+            "id": "MN0006_005",
+            "area": 44,
+            "iso_area": 44
+        },
+        {
+            "id": "MN0006_006",
+            "area": 38,
+            "iso_area": 39
+        },
+        {
+            "id": "MN0006_007",
+            "area": 37,
+            "iso_area": 37
+        },
+        {
+            "id": "MN0006_008",
+            "area": 35,
+            "iso_area": 35
+        },
+        {
+            "id": "MN0006_009",
+            "area": 35,
+            "iso_area": 35
+        },
+        {
+            "id": "MN0006_010",
+            "area": 33,
+            "iso_area": 33
+        },
+        {
+            "id": "MN0006_011",
+            "area": 33,
+            "iso_area": 33
+        },
+        {
+            "id": "MN0006_012",
+            "area": 32,
+            "iso_area": 31
+        },
+        {
+            "id": "MN0006_013",
+            "area": 26,
+            "iso_area": 26
+        },
+        {
+            "id": "MN0006_014",
+            "area": 26,
+            "iso_area": 23
+        },
+        {
+            "id": "MN0006_015",
+            "area": 24,
+            "iso_area": 24
+        },
+        {
+            "id": "MN0006_016",
+            "area": 23,
+            "iso_area": 23
+        },
+        {
+            "id": "MN0006_017",
+            "area": 22,
+            "iso_area": 22
+        },
+        {
+            "id": "MN0006_018",
+            "area": 22,
+            "iso_area": 22
+        },
+        {
+            "id": "MN0006_019",
+            "area": 22,
+            "iso_area": 22
+        },
+        {
+            "id": "MN0006_020",
+            "area": 20,
+            "iso_area": 20
+        },
+        {
+            "id": "MN0006_021",
+            "area": 18,
+            "iso_area": 18
+        },
+        {
+            "id": "MN0006_022",
+            "area": 18,
+            "iso_area": 18
+        },
+        {
+            "id": "MN0006_023",
+            "area": 18,
+            "iso_area": 18
+        },
+        {
+            "id": "MN0006_024",
+            "area": 17,
+            "iso_area": 17
+        },
+        {
+            "id": "MN0006_025",
+            "area": 16,
+            "iso_area": 16
+        },
+        {
+            "id": "MN0006_026",
+            "area": 15,
+            "iso_area": 15
+        },
+        {
+            "id": "MN0006_027",
+            "area": 15,
+            "iso_area": 15
+        },
+        {
+            "id": "MN0006_028",
+            "area": 15,
+            "iso_area": 15
+        },
+        {
+            "id": "MN0006_029",
+            "area": 14,
+            "iso_area": 14
+        },
+        {
+            "id": "MN0006_030",
+            "area": 13,
+            "iso_area": 13
+        },
+        {
+            "id": "MN0006_031",
+            "area": 12,
+            "iso_area": 12
+        },
+        {
+            "id": "MN0006_032",
+            "area": 11,
+            "iso_area": 11
+        },
+        {
+            "id": "MN0006_033",
+            "area": 11,
+            "iso_area": 11
+        },
+        {
+            "id": "MN0006_034",
+            "area": 11,
+            "iso_area": 11
+        },
+        {
+            "id": "MN0006_035",
+            "area": 10,
+            "iso_area": 10
+        },
+        {
+            "id": "MN0006_036",
+            "area": 9,
+            "iso_area": 9
+        },
+        {
+            "id": "MN0006_037",
+            "area": 9,
+            "iso_area": 9
+        },
+        {
+            "id": "MN0006_038",
+            "area": 9,
+            "iso_area": 9
+        },
+        {
+            "id": "MN0006_039",
+            "area": 8,
+            "iso_area": 8
+        },
+        {
+            "id": "MN0006_040",
+            "area": 8,
+            "iso_area": 8
+        },
+        {
+            "id": "MN0006_041",
+            "area": 6,
+            "iso_area": 6
+        },
+        {
+            "id": "MN0006_042",
+            "area": 6,
+            "iso_area": 6
+        },
+        {
+            "id": "MN0006_043",
+            "area": 6,
+            "iso_area": 5
+        },
+        {
+            "id": "MN0006_044",
+            "area": 5,
+            "iso_area": 5
+        },
+        {
+            "id": "MN0006_045",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0006_046",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0006_047",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0006_048",
+            "area": 4,
+            "iso_area": 4
+        },
+        {
+            "id": "MN0006_049",
+            "area": 3,
+            "iso_area": 3
+        }
+    ],
+    "links": [
+        {
+            "id": "MN0006_e000",
+            "source": "MN0006_000",
+            "target": "MN0006_001"
+        },
+        {
+            "id": "MN0006_e001",
+            "source": "MN0006_001",
+            "target": "MN0006_010"
+        },
+        {
+            "id": "MN0006_e002",
+            "source": "MN0006_001",
+            "target": "MN0006_005"
+        },
+        {
+            "id": "MN0006_e003",
+            "source": "MN0006_001",
+            "target": "MN0006_011"
+        },
+        {
+            "id": "MN0006_e004",
+            "source": "MN0006_001",
+            "target": "MN0006_028"
+        },
+        {
+            "id": "MN0006_e005",
+            "source": "MN0006_001",
+            "target": "MN0006_049"
+        },
+        {
+            "id": "MN0006_e006",
+            "source": "MN0006_001",
+            "target": "MN0006_029"
+        },
+        {
+            "id": "MN0006_e007",
+            "source": "MN0006_001",
+            "target": "MN0006_014"
+        },
+        {
+            "id": "MN0006_e008",
+            "source": "MN0006_001",
+            "target": "MN0006_003"
+        },
+        {
+            "id": "MN0006_e009",
+            "source": "MN0006_001",
+            "target": "MN0006_020"
+        },
+        {
+            "id": "MN0006_e010",
+            "source": "MN0006_001",
+            "target": "MN0006_035"
+        },
+        {
+            "id": "MN0006_e011",
+            "source": "MN0006_001",
+            "target": "MN0006_026"
+        },
+        {
+            "id": "MN0006_e012",
+            "source": "MN0006_001",
+            "target": "MN0006_015"
+        },
+        {
+            "id": "MN0006_e013",
+            "source": "MN0006_001",
+            "target": "MN0006_027"
+        },
+        {
+            "id": "MN0006_e014",
+            "source": "MN0006_001",
+            "target": "MN0006_033"
+        },
+        {
+            "id": "MN0006_e015",
+            "source": "MN0006_001",
+            "target": "MN0006_018"
+        },
+        {
+            "id": "MN0006_e016",
+            "source": "MN0006_001",
+            "target": "MN0006_024"
+        },
+        {
+            "id": "MN0006_e017",
+            "source": "MN0006_001",
+            "target": "MN0006_030"
+        },
+        {
+            "id": "MN0006_e018",
+            "source": "MN0006_002",
+            "target": "MN0006_032"
+        },
+        {
+            "id": "MN0006_e019",
+            "source": "MN0006_002",
+            "target": "MN0006_034"
+        },
+        {
+            "id": "MN0006_e020",
+            "source": "MN0006_002",
+            "target": "MN0006_023"
+        },
+        {
+            "id": "MN0006_e021",
+            "source": "MN0006_003",
+            "target": "MN0006_037"
+        },
+        {
+            "id": "MN0006_e022",
+            "source": "MN0006_003",
+            "target": "MN0006_024"
+        },
+        {
+            "id": "MN0006_e023",
+            "source": "MN0006_003",
+            "target": "MN0006_008"
+        },
+        {
+            "id": "MN0006_e024",
+            "source": "MN0006_003",
+            "target": "MN0006_036"
+        },
+        {
+            "id": "MN0006_e025",
+            "source": "MN0006_003",
+            "target": "MN0006_023"
+        },
+        {
+            "id": "MN0006_e026",
+            "source": "MN0006_003",
+            "target": "MN0006_022"
+        },
+        {
+            "id": "MN0006_e027",
+            "source": "MN0006_003",
+            "target": "MN0006_025"
+        },
+        {
+            "id": "MN0006_e028",
+            "source": "MN0006_003",
+            "target": "MN0006_012"
+        },
+        {
+            "id": "MN0006_e029",
+            "source": "MN0006_003",
+            "target": "MN0006_044"
+        },
+        {
+            "id": "MN0006_e030",
+            "source": "MN0006_004",
+            "target": "MN0006_029"
+        },
+        {
+            "id": "MN0006_e031",
+            "source": "MN0006_004",
+            "target": "MN0006_012"
+        },
+        {
+            "id": "MN0006_e032",
+            "source": "MN0006_005",
+            "target": "MN0006_039"
+        },
+        {
+            "id": "MN0006_e033",
+            "source": "MN0006_006",
+            "target": "MN0006_042"
+        },
+        {
+            "id": "MN0006_e034",
+            "source": "MN0006_007",
+            "target": "MN0006_016"
+        },
+        {
+            "id": "MN0006_e035",
+            "source": "MN0006_008",
+            "target": "MN0006_010"
+        },
+        {
+            "id": "MN0006_e036",
+            "source": "MN0006_008",
+            "target": "MN0006_042"
+        },
+        {
+            "id": "MN0006_e037",
+            "source": "MN0006_008",
+            "target": "MN0006_017"
+        },
+        {
+            "id": "MN0006_e038",
+            "source": "MN0006_009",
+            "target": "MN0006_044"
+        },
+        {
+            "id": "MN0006_e039",
+            "source": "MN0006_009",
+            "target": "MN0006_023"
+        },
+        {
+            "id": "MN0006_e040",
+            "source": "MN0006_009",
+            "target": "MN0006_033"
+        },
+        {
+            "id": "MN0006_e041",
+            "source": "MN0006_009",
+            "target": "MN0006_047"
+        },
+        {
+            "id": "MN0006_e042",
+            "source": "MN0006_013",
+            "target": "MN0006_021"
+        },
+        {
+            "id": "MN0006_e043",
+            "source": "MN0006_013",
+            "target": "MN0006_041"
+        },
+        {
+            "id": "MN0006_e044",
+            "source": "MN0006_014",
+            "target": "MN0006_031"
+        },
+        {
+            "id": "MN0006_e045",
+            "source": "MN0006_016",
+            "target": "MN0006_017"
+        },
+        {
+            "id": "MN0006_e046",
+            "source": "MN0006_016",
+            "target": "MN0006_042"
+        },
+        {
+            "id": "MN0006_e047",
+            "source": "MN0006_018",
+            "target": "MN0006_040"
+        },
+        {
+            "id": "MN0006_e048",
+            "source": "MN0006_019",
+            "target": "MN0006_022"
+        },
+        {
+            "id": "MN0006_e049",
+            "source": "MN0006_019",
+            "target": "MN0006_023"
+        },
+        {
+            "id": "MN0006_e050",
+            "source": "MN0006_021",
+            "target": "MN0006_047"
+        },
+        {
+            "id": "MN0006_e051",
+            "source": "MN0006_021",
+            "target": "MN0006_048"
+        },
+        {
+            "id": "MN0006_e052",
+            "source": "MN0006_022",
+            "target": "MN0006_037"
+        },
+        {
+            "id": "MN0006_e053",
+            "source": "MN0006_025",
+            "target": "MN0006_045"
+        },
+        {
+            "id": "MN0006_e054",
+            "source": "MN0006_025",
+            "target": "MN0006_046"
+        },
+        {
+            "id": "MN0006_e055",
+            "source": "MN0006_027",
+            "target": "MN0006_038"
+        },
+        {
+            "id": "MN0006_e056",
+            "source": "MN0006_032",
+            "target": "MN0006_037"
+        },
+        {
+            "id": "MN0006_e057",
+            "source": "MN0006_035",
+            "target": "MN0006_041"
+        },
+        {
+            "id": "MN0006_e058",
+            "source": "MN0006_041",
+            "target": "MN0006_043"
+        }
+    ]
+}

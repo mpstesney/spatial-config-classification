@@ -1,0 +1,268 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "MN0027_000",
+            "area": 13379,
+            "iso_area": 4555
+        },
+        {
+            "id": "MN0027_001",
+            "area": 1824,
+            "iso_area": 1374
+        },
+        {
+            "id": "MN0027_002",
+            "area": 572,
+            "iso_area": 251
+        },
+        {
+            "id": "MN0027_003",
+            "area": 554,
+            "iso_area": 532
+        },
+        {
+            "id": "MN0027_004",
+            "area": 342,
+            "iso_area": 472
+        },
+        {
+            "id": "MN0027_005",
+            "area": 232,
+            "iso_area": 233
+        },
+        {
+            "id": "MN0027_006",
+            "area": 123,
+            "iso_area": 153
+        },
+        {
+            "id": "MN0027_007",
+            "area": 98,
+            "iso_area": 136
+        },
+        {
+            "id": "MN0027_008",
+            "area": 72,
+            "iso_area": 90
+        },
+        {
+            "id": "MN0027_009",
+            "area": 55,
+            "iso_area": 70
+        },
+        {
+            "id": "MN0027_010",
+            "area": 53,
+            "iso_area": 83
+        },
+        {
+            "id": "MN0027_011",
+            "area": 51,
+            "iso_area": 163
+        },
+        {
+            "id": "MN0027_012",
+            "area": 48,
+            "iso_area": 79
+        },
+        {
+            "id": "MN0027_013",
+            "area": 40,
+            "iso_area": 72
+        },
+        {
+            "id": "MN0027_014",
+            "area": 34,
+            "iso_area": 268
+        },
+        {
+            "id": "MN0027_015",
+            "area": 33,
+            "iso_area": 489
+        },
+        {
+            "id": "MN0027_016",
+            "area": 26,
+            "iso_area": 67
+        },
+        {
+            "id": "MN0027_017",
+            "area": 21,
+            "iso_area": 223
+        },
+        {
+            "id": "MN0027_018",
+            "area": 18,
+            "iso_area": 23
+        },
+        {
+            "id": "MN0027_019",
+            "area": 15,
+            "iso_area": 17
+        },
+        {
+            "id": "MN0027_020",
+            "area": 15,
+            "iso_area": 15
+        },
+        {
+            "id": "MN0027_021",
+            "area": 15,
+            "iso_area": 248
+        },
+        {
+            "id": "MN0027_022",
+            "area": 15,
+            "iso_area": 226
+        },
+        {
+            "id": "MN0027_023",
+            "area": 15,
+            "iso_area": 25
+        },
+        {
+            "id": "MN0027_024",
+            "area": 11,
+            "iso_area": 51
+        }
+    ],
+    "links": [
+        {
+            "id": "MN0027_e000",
+            "source": "MN0027_000",
+            "target": "MN0027_012"
+        },
+        {
+            "id": "MN0027_e001",
+            "source": "MN0027_000",
+            "target": "MN0027_015"
+        },
+        {
+            "id": "MN0027_e002",
+            "source": "MN0027_000",
+            "target": "MN0027_018"
+        },
+        {
+            "id": "MN0027_e003",
+            "source": "MN0027_000",
+            "target": "MN0027_001"
+        },
+        {
+            "id": "MN0027_e004",
+            "source": "MN0027_000",
+            "target": "MN0027_004"
+        },
+        {
+            "id": "MN0027_e005",
+            "source": "MN0027_000",
+            "target": "MN0027_002"
+        },
+        {
+            "id": "MN0027_e006",
+            "source": "MN0027_000",
+            "target": "MN0027_014"
+        },
+        {
+            "id": "MN0027_e007",
+            "source": "MN0027_001",
+            "target": "MN0027_021"
+        },
+        {
+            "id": "MN0027_e008",
+            "source": "MN0027_001",
+            "target": "MN0027_022"
+        },
+        {
+            "id": "MN0027_e009",
+            "source": "MN0027_001",
+            "target": "MN0027_017"
+        },
+        {
+            "id": "MN0027_e010",
+            "source": "MN0027_001",
+            "target": "MN0027_023"
+        },
+        {
+            "id": "MN0027_e011",
+            "source": "MN0027_001",
+            "target": "MN0027_019"
+        },
+        {
+            "id": "MN0027_e012",
+            "source": "MN0027_001",
+            "target": "MN0027_020"
+        },
+        {
+            "id": "MN0027_e013",
+            "source": "MN0027_002",
+            "target": "MN0027_009"
+        },
+        {
+            "id": "MN0027_e014",
+            "source": "MN0027_002",
+            "target": "MN0027_015"
+        },
+        {
+            "id": "MN0027_e015",
+            "source": "MN0027_002",
+            "target": "MN0027_006"
+        },
+        {
+            "id": "MN0027_e016",
+            "source": "MN0027_002",
+            "target": "MN0027_011"
+        },
+        {
+            "id": "MN0027_e017",
+            "source": "MN0027_002",
+            "target": "MN0027_007"
+        },
+        {
+            "id": "MN0027_e018",
+            "source": "MN0027_002",
+            "target": "MN0027_024"
+        },
+        {
+            "id": "MN0027_e019",
+            "source": "MN0027_002",
+            "target": "MN0027_008"
+        },
+        {
+            "id": "MN0027_e020",
+            "source": "MN0027_002",
+            "target": "MN0027_014"
+        },
+        {
+            "id": "MN0027_e021",
+            "source": "MN0027_002",
+            "target": "MN0027_003"
+        },
+        {
+            "id": "MN0027_e022",
+            "source": "MN0027_005",
+            "target": "MN0027_024"
+        },
+        {
+            "id": "MN0027_e023",
+            "source": "MN0027_006",
+            "target": "MN0027_011"
+        },
+        {
+            "id": "MN0027_e024",
+            "source": "MN0027_010",
+            "target": "MN0027_012"
+        },
+        {
+            "id": "MN0027_e025",
+            "source": "MN0027_010",
+            "target": "MN0027_016"
+        },
+        {
+            "id": "MN0027_e026",
+            "source": "MN0027_013",
+            "target": "MN0027_024"
+        }
+    ]
+}
