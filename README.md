@@ -1,6 +1,8 @@
 # v2
 vignette 2 repository
 
+This repository contains the data and code 
+
 paper: http://cumincad.scix.net/cgi-bin/works/Show?cf2019_014
 
 repo: https://github.com/c0deLab/ML-architectural-analytics
